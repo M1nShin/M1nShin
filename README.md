@@ -7,7 +7,7 @@ I stay positive, keep learning, and move forward step by step.
 
 ### 🔐 Interests
 - OT Security  
-- SAST Vulnerability Detection  
+- Vulnerability Detection & Analysis 
 - Security Management  
 
 ### 🌱 Currently Learning
