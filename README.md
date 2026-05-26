@@ -6,14 +6,11 @@ Turning challenges into lemonade 🍋
 I stay positive, keep learning, and move forward step by step.
 
 ### 🔐 Interests
-- OT Security  
+- OT Security
+- AI Security
+- Supply Chain Security  
 - Vulnerability Detection & Analysis 
 - Security Management  
-
-### 🌱 Currently Learning
-- Cloud Security  
-- AI Security  
-- Supply Chain Security  
 
 This GitHub marks the beginning of my journey in security!  
 I will continue studying, building projects, and sharing what I learn here 🚀
